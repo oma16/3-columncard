@@ -52,10 +52,10 @@ p{
     color: hsla(0, 0%, 100%, 0.75);
     line-height: 20px;
 }
-h3{
+h1{
     font-family: "Big Shoulders Display";
     margin: 20px 0;
-    font-weight: 700;
+    font-weight: 400;
     color: hsl(0, 0%, 95%);
 }
 button{
